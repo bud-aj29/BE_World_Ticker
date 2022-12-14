@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "tiers": {
+        "initial_range": 1
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:command_block_minecart",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tiers": {
+        "initial_range": 1
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:rail",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

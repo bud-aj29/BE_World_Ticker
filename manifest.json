@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Command block minecarts tick the world around them",
+        "name": "World_Ticker",
+        "uuid": "2a766dfc-863a-45cf-bebc-7ed15b6ec4d1",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "cfa125e6-9fd0-4f5f-a139-868259d37a4b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
